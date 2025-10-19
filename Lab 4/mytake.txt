@@ -1,0 +1,1 @@
+Lambda is a really useful tool I was able to automate the disabling of a malicious user and now it will automatically see and do its thing for every satisfied condition. 

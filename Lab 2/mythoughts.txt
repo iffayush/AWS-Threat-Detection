@@ -1,0 +1,1 @@
+"This way day 2 of my cloud threat detection homelab. Previously I created EC2 instance, S3 bucket and configured Cloudtrail, guardduty, and awsConfig. Today I put them to use and learned about how events are monitored and finding are reported. I feel great, learning something new everyday" 
